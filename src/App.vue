@@ -1,9 +1,9 @@
 <script setup>
-import HelloWorld from './components/HelloWorld.vue'
+import Dashbord from './components/page/Dashbord.vue'
 </script>
 
 <template>
   <main>
-    <HelloWorld/>
+    <Dashbord/>
   </main>
 </template>
