@@ -38,6 +38,8 @@ import { ref } from "vue";
 const rooms = ref([
   { id: 1, number: 101, type: "Deluxe", price: 120 },
   { id: 2, number: 102, type: "Standard", price: 90 },
+  { id: 3, number: 103, type: "Suite", price: 200 },
+  { id: 4, number: 104, type: "Standard", price: 100 },
 ]);
 
 const addRoom = () => {
