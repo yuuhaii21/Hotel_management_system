@@ -49,7 +49,7 @@ const search = ref("");
 const showForm = ref(false);
 
 const customers = ref([
-  { id: 1, name: "John Doe", phone: "012345678", email: "john@mail.com" }
+  // { id: 1, name: "John Doe", phone: "012345678", email: "john@mail.com" }
 ]);
 
 const form = ref({});
